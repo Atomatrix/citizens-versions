@@ -6,5 +6,7 @@
   "1.20.3": "https://ci.citizensnpcs.co/job/Citizens2/3399/artifact/dist/target/Citizens-2.0.33-b3399.jar",
   "1.20.4": "https://ci.citizensnpcs.co/job/Citizens2/3399/artifact/dist/target/Citizens-2.0.33-b3399.jar",
   "1.20.5": "https://ci.citizensnpcs.co/job/Citizens2/3430/artifact/dist/target/Citizens-2.0.34-b3430.jar",
-  "1.20.6": "https://ci.citizensnpcs.co/job/Citizens2/3430/artifact/dist/target/Citizens-2.0.34-b3430.jar"
+  "1.20.6": "https://ci.citizensnpcs.co/job/Citizens2/3430/artifact/dist/target/Citizens-2.0.34-b3430.jar",
+  "1.20": "https://ci.citizensnpcs.co/job/Citizens2/3598/artifact/dist/target/Citizens-2.0.35-b3598.jar",
+  "1.20.1": "https://ci.citizensnpcs.co/job/Citizens2/3598/artifact/dist/target/Citizens-2.0.35-b3598.jar"
 }
